@@ -1,0 +1,30 @@
+D:\XamarinTurtories\02.ListView\App1\App1\bin\Debug\App1.dll
+D:\XamarinTurtories\02.ListView\App1\App1\bin\Debug\App1.pdb
+D:\XamarinTurtories\02.ListView\App1\App1\bin\Debug\App1.App1.apk
+D:\XamarinTurtories\02.ListView\App1\App1\bin\Debug\App1.App1-Signed.apk
+D:\XamarinTurtories\02.ListView\App1\App1\obj\Debug\App1.dll
+D:\XamarinTurtories\02.ListView\App1\App1\obj\Debug\App1.pdb
+D:\XamarinTurtories\02.ListView\App1\App1\obj\Debug\android\bin\App1.App1.apk
+D:\XamarinTurtories\02.ListView\App1\App1\obj\Debug\res\layout\main.xml
+D:\XamarinTurtories\02.ListView\App1\App1\obj\Debug\res\values\strings.xml
+D:\XamarinTurtories\02.ListView\App1\App1\obj\Debug\res\drawable\icon.png
+D:\XamarinTurtories\02.ListView\App1\App1\obj\Debug\R.cs.flag
+D:\XamarinTurtories\02.ListView\App1\App1\obj\Debug\uploadflags.txt
+D:\XamarinTurtories\02.ListView\App1\App1\obj\Debug\App1.dll.mdb
+D:\XamarinTurtories\02.ListView\App1\App1\bin\Debug\App1.dll.mdb
+D:\XamarinTurtories\02.ListView\App2 ListView Simple\App1\bin\Debug\App1.dll
+D:\XamarinTurtories\02.ListView\App2 ListView Simple\App1\bin\Debug\App1.pdb
+D:\XamarinTurtories\02.ListView\App2 ListView Simple\App1\bin\Debug\App1.App1.apk
+D:\XamarinTurtories\02.ListView\App2 ListView Simple\App1\bin\Debug\App1.App1-Signed.apk
+D:\XamarinTurtories\02.ListView\App2 ListView Simple\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
+D:\XamarinTurtories\02.ListView\App2 ListView Simple\App1\obj\Debug\App1.dll
+D:\XamarinTurtories\02.ListView\App2 ListView Simple\App1\obj\Debug\App1.pdb
+D:\XamarinTurtories\02.ListView\App2 ListView Simple\App1\obj\Debug\android\bin\App1.App1.apk
+D:\XamarinTurtories\02.ListView\App2 ListView Simple\App1\obj\Debug\res\layout\mylistview.xml
+D:\XamarinTurtories\02.ListView\App2 ListView Simple\App1\obj\Debug\res\layout\main.xml
+D:\XamarinTurtories\02.ListView\App2 ListView Simple\App1\obj\Debug\res\values\strings.xml
+D:\XamarinTurtories\02.ListView\App2 ListView Simple\App1\obj\Debug\res\drawable\icon.png
+D:\XamarinTurtories\02.ListView\App2 ListView Simple\App1\obj\Debug\R.cs.flag
+D:\XamarinTurtories\02.ListView\App2 ListView Simple\App1\obj\Debug\uploadflags.txt
+D:\XamarinTurtories\02.ListView\App2 ListView Simple\App1\obj\Debug\App1.dll.mdb
+D:\XamarinTurtories\02.ListView\App2 ListView Simple\App1\bin\Debug\App1.dll.mdb

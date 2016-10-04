@@ -1,0 +1,9 @@
+D:\XamarinTurtories\02.ListView\App1\App1\obj\Debug\assemblies\App1.dll
+D:\XamarinTurtories\02.ListView\App1\App1\obj\Debug\assemblies\Mono.Android.dll
+D:\XamarinTurtories\02.ListView\App1\App1\obj\Debug\assemblies\mscorlib.dll
+D:\XamarinTurtories\02.ListView\App1\App1\obj\Debug\assemblies\System.Core.dll
+D:\XamarinTurtories\02.ListView\App1\App1\obj\Debug\assemblies\System.dll
+D:\XamarinTurtories\02.ListView\App1\App1\obj\Debug\assemblies\System.Xml.dll
+D:\XamarinTurtories\02.ListView\App1\App1\obj\Debug\assemblies\System.Xml.Linq.dll
+D:\XamarinTurtories\02.ListView\App1\App1\obj\Debug\assemblies\System.Runtime.Serialization.dll
+D:\XamarinTurtories\02.ListView\App1\App1\obj\Debug\assemblies\System.ServiceModel.Internals.dll
