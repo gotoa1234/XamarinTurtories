@@ -1,0 +1,33 @@
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App1 Creating a Login System\App1 Creating a Login System\obj\Debug\App1 Creating a Login System.csprojResolveAssemblyReference.cache
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App1 Creating a Login System\App1 Creating a Login System\bin\Debug\App1 Creating a Login System.dll
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App1 Creating a Login System\App1 Creating a Login System\bin\Debug\App1 Creating a Login System.pdb
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App1 Creating a Login System\App1 Creating a Login System\bin\Debug\App1_Creating_a_Login_System.App1_Creating_a_Login_System.apk
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App1 Creating a Login System\App1 Creating a Login System\bin\Debug\App1_Creating_a_Login_System.App1_Creating_a_Login_System-Signed.apk
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App1 Creating a Login System\App1 Creating a Login System\obj\Debug\App1 Creating a Login System.dll
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App1 Creating a Login System\App1 Creating a Login System\obj\Debug\App1 Creating a Login System.pdb
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App1 Creating a Login System\App1 Creating a Login System\obj\Debug\android\bin\App1_Creating_a_Login_System.App1_Creating_a_Login_System.apk
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App1 Creating a Login System\App1 Creating a Login System\obj\Debug\res\layout\main.xml
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App1 Creating a Login System\App1 Creating a Login System\obj\Debug\res\values\strings.xml
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App1 Creating a Login System\App1 Creating a Login System\obj\Debug\res\drawable\icon.png
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App1 Creating a Login System\App1 Creating a Login System\obj\Debug\R.cs.flag
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App1 Creating a Login System\App1 Creating a Login System\obj\Debug\uploadflags.txt
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App1 Creating a Login System\App1 Creating a Login System\obj\Debug\App1 Creating a Login System.dll.mdb
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App1 Creating a Login System\App1 Creating a Login System\bin\Debug\App1 Creating a Login System.dll.mdb
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App2 Customizing Buttons and Progress Bars\App1 Creating a Login System\obj\Debug\App1 Creating a Login System.csprojResolveAssemblyReference.cache
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App2 Customizing Buttons and Progress Bars\App1 Creating a Login System\obj\Debug\App1 Creating a Login System.dll
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App2 Customizing Buttons and Progress Bars\App1 Creating a Login System\obj\Debug\App1 Creating a Login System.pdb
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App2 Customizing Buttons and Progress Bars\App1 Creating a Login System\bin\Debug\App1 Creating a Login System.dll
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App2 Customizing Buttons and Progress Bars\App1 Creating a Login System\bin\Debug\App1 Creating a Login System.pdb
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App2 Customizing Buttons and Progress Bars\App1 Creating a Login System\bin\Debug\App1_Creating_a_Login_System.App1_Creating_a_Login_System.apk
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App2 Customizing Buttons and Progress Bars\App1 Creating a Login System\bin\Debug\App1_Creating_a_Login_System.App1_Creating_a_Login_System-Signed.apk
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App2 Customizing Buttons and Progress Bars\App1 Creating a Login System\obj\Debug\android\bin\App1_Creating_a_Login_System.App1_Creating_a_Login_System.apk
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App2 Customizing Buttons and Progress Bars\App1 Creating a Login System\obj\Debug\res\layout\main.xml
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App2 Customizing Buttons and Progress Bars\App1 Creating a Login System\obj\Debug\res\values\strings.xml
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App2 Customizing Buttons and Progress Bars\App1 Creating a Login System\obj\Debug\res\drawable\icon.png
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App2 Customizing Buttons and Progress Bars\App1 Creating a Login System\obj\Debug\res\drawable\buttonsigninstyle.xml
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App2 Customizing Buttons and Progress Bars\App1 Creating a Login System\obj\Debug\res\drawable\buttonsignupstyle.xml
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App2 Customizing Buttons and Progress Bars\App1 Creating a Login System\obj\Debug\res\drawable\progressbarstyle.xml
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App2 Customizing Buttons and Progress Bars\App1 Creating a Login System\obj\Debug\R.cs.flag
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App2 Customizing Buttons and Progress Bars\App1 Creating a Login System\obj\Debug\uploadflags.txt
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App2 Customizing Buttons and Progress Bars\App1 Creating a Login System\obj\Debug\App1 Creating a Login System.dll.mdb
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App2 Customizing Buttons and Progress Bars\App1 Creating a Login System\bin\Debug\App1 Creating a Login System.dll.mdb

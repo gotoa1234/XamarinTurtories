@@ -1,0 +1,9 @@
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App2 Customizing Buttons and Progress Bars\App1 Creating a Login System\obj\Debug\assemblies\App1 Creating a Login System.dll
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App2 Customizing Buttons and Progress Bars\App1 Creating a Login System\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App2 Customizing Buttons and Progress Bars\App1 Creating a Login System\obj\Debug\assemblies\mscorlib.dll
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App2 Customizing Buttons and Progress Bars\App1 Creating a Login System\obj\Debug\assemblies\System.Core.dll
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App2 Customizing Buttons and Progress Bars\App1 Creating a Login System\obj\Debug\assemblies\System.dll
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App2 Customizing Buttons and Progress Bars\App1 Creating a Login System\obj\Debug\assemblies\System.Xml.dll
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App2 Customizing Buttons and Progress Bars\App1 Creating a Login System\obj\Debug\assemblies\System.Xml.Linq.dll
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App2 Customizing Buttons and Progress Bars\App1 Creating a Login System\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Users\cap88\OneDrive\文件\GitHub\XamarinTurtories\03.Creating Login\App2 Customizing Buttons and Progress Bars\App1 Creating a Login System\obj\Debug\assemblies\System.ServiceModel.Internals.dll

@@ -1,0 +1,4 @@
+App1_Creating_a_Login_System.MainActivity, App1 Creating a Login System;md5af57b69f46adadb2e77a2877c652dacf.MainActivity
+App1_Creating_a_Login_System.MainActivity, App1 Creating a Login System, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5af57b69f46adadb2e77a2877c652dacf.MainActivity
+App1_Creating_a_Login_System.MainActivity;md5af57b69f46adadb2e77a2877c652dacf.MainActivity
+app1_creating_a_login_system.MainActivity;md5af57b69f46adadb2e77a2877c652dacf.MainActivity
